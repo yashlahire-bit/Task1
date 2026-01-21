@@ -1,0 +1,15 @@
+{
+  "task": "Attack Surface Mapping",
+  "mappings": [
+    {
+      "app": "WhatsApp",
+      "surface": "Mobile App/API",
+      "threat": "Man-in-the-Middle"
+    },
+    {
+      "app": "Banking",
+      "surface": "Web Portal/Database",
+      "threat": "SQL Injection"
+    }
+  ]
+}
